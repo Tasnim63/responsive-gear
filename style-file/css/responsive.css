@@ -93,14 +93,14 @@
         grid-template-columns: repeat(1, 1fr);
     }
 
-    .cta-container {
+    /* .cta-container {
         padding: 1rem;
-    }
+    } */
 
-    .cta-title {
+    /* .cta-title {
         font-size: 1.4rem;
-    }
+    } */
 
-    .fields button {
+    /* .fields button {
         width: 50%;
-    }
+    } */
